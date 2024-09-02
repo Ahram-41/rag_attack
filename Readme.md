@@ -4,7 +4,7 @@ For different experiments of attack questions, see [generate_prompt.py](./genera
 
 The paper is available at [The Good and The Bad: Exploring Privacy Issues in Retrieval-Augmented Generation (RAG)](https://arxiv.org/abs/2402.16893).
 
-![intro.png](./imgs/intro.png)
+![intro.png](./static/intro.png)
 
 ## Environmental installation
 
