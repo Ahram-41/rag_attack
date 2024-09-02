@@ -1,0 +1,14 @@
+torch
+torchvision 
+torchaudio
+fairscale
+fire
+sentencepiece
+langchain 
+langchain_community 
+langchain_openai
+sentence_transformers 
+FlagEmbedding 
+chromadb 
+chardet 
+nltk
