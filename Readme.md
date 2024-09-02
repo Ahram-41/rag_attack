@@ -1,4 +1,8 @@
-This repository is forked from [RAG-privacy](https://github.com/phycholosogy/RAG-privacy)
+This repository is forked and edited from [RAG-privacy](https://github.com/phycholosogy/RAG-privacy)
+
+For student onboarding, please see [onboarding.md](./onboarding/onboarding.md)
+
+For the literature survey, please see [literature survey.md](./onboarding/literature%20survey.md)
 
 For different experiments of attack questions, see [generate_prompt.py](./generate_prompt.py) in the function `get_question`.
 
